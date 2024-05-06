@@ -47,7 +47,6 @@
 #'    outer join of the factors and residuals. We use this joined data to create new
 #'    simulated returns. Returns together with factors define a joint empirical density.
 #'
-#' @importFrom RCurl merge.list
 #' @importFrom xts as.xts
 #'
 #' @param  R single vector of returns

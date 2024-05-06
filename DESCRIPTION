@@ -28,12 +28,10 @@ Imports:
     methods,
     parallel,
     PerformanceAnalytics,
-    RCurl,
     RobStatTM,
     robustbase,
     sandwich,
     sn,
-    tseries,
     xts,
     zoo
 Suggests:
